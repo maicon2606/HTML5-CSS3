@@ -15,5 +15,18 @@ body, html {
     height: 100vh;
 }
 body {
-    background: black;
+    background: black url(../imagens/back-phone.jpg) no-repeat;
 }
+main {
+    background-color: rgba(255, 255, 255, 0.842);
+    width: 90vw;
+    margin: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+img#phone { display: none;}
+img#Tablet { display: none;}
+img#print { display: none;}
+img#pc { display: none;}
+img#tv { display: none;}
+
